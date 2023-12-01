@@ -1,0 +1,20 @@
+h1{
+    color: brown;
+    
+  }
+  body{background-color: bisque;
+
+  }
+  table,th,td{
+    border: 1px solid black;
+  }
+  div{
+    color: blueviolet;
+    background-color: aqua;
+  }
+  pre{
+    margin-top: 150px;
+  }
+  h2{
+    font-family: "Times New Roman", Times, serif;
+  }
